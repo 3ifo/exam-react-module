@@ -1,7 +1,7 @@
 import { useState } from "react";
 import PersonCard from "./PersonCard";
 import SearchBar from "./SearchBar";
-import "../Index.css";
+import "../Index.scss";
 const apiKey = import.meta.env.VITE_API_KEY;
 
 const SearchPage = () => {

@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { Navigate } from "react-router-dom";
 import dayjs from "dayjs";
-import "../Index.css";
+import "../Index.scss";
 
 const apiKey = import.meta.env.VITE_API_KEY;
 

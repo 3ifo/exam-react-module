@@ -1,6 +1,6 @@
 import SearchPage from "./components/SearchPage";
 
-import "./Index.css";
+import "./Index.scss";
 /* Ho cercato di dare un minimo di stile con sass anche se non ho dedicato molto tempo alla parte dello style, ora non fa schifo fa schifino. */
 import AboutPage from "./components/AboutPage";
 import HomePage from "./components/HomePage";

@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import PersonCard from "./PersonCard";
 import "../App.css";
-import "../Index.css";
+import "../Index.scss";
 const apiKey = import.meta.env.VITE_API_KEY;
 
 const HomePage = () => {
